@@ -1,96 +1,18 @@
-<h1 align="center">Hi, I'm Sanket</h1>
-<h3 align="center">Building practical AI, data, and full-stack projects with clean engineering and real-world polish.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,40:2563eb,100:06b6d4&text=Hi,%20I'm%20Sanket&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=54&desc=AI%20Builder%20%7C%20Data%20Explorer%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" alt="header" /> <p align="center"> <a href="https://github.com/sanket-thethunder"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+that+feel+practical.;Turning+data+into+decisions+and+ideas+into+software.;Clean+code.+Useful+apps.+Real-world+impact." alt="typing animation" /> </a> </p> <p align="center"> <a href="https://github.com/sanket-thethunder"> <img src="https://komarev.com/ghpvc/?username=sanket-thethunder&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile views" /> </a> <a href="https://github.com/sanket-thethunder?tab=followers"> <img src="https://img.shields.io/github/followers/sanket-thethunder?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub followers" /> </a> <a href="https://github.com/sanket-thethunder?tab=repositories"> <img src="https://img.shields.io/badge/Repos-Explore-0f172a?style=for-the-badge&logo=github" alt="Repositories" /> </a> </p> <br /> <table> <tr> <td width="55%"> <h2>About Me</h2> <p> I am Sanket, a developer who enjoys building practical software with a sharp focus on AI, data, automation, and full-stack engineering. </p> <p> I like projects that are more than demos: clean structure, useful workflows, readable code, and a little polish that makes people remember them. </p> <ul> <li>Currently exploring AI apps, RAG systems, dashboards, APIs, and automation.</li> <li>Love building tools that make information easier to search, understand, and use.</li> <li>Focused on improving every project until it feels portfolio-ready.</li> <li>Learning in public and shipping consistently.</li> </ul> </td> <td width="45%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanket-thethunder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Sanket's%20GitHub%20Pulse" alt="GitHub stats" /> </td> </tr> </table>
+<h2 align="center">Tech Arsenal</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,fastapi,flask,streamlit,docker,git,github,vscode,mongodb,mysql" alt="Tech stack" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI" /> <img src="https://img.shields.io/badge/RAG%20Systems-2563eb?style=for-the-badge&logo=googledocs&logoColor=white" alt="RAG systems" /> <img src="https://img.shields.io/badge/Data%20Analytics-06b6d4?style=for-the-badge&logo=python&logoColor=white" alt="Data analytics" /> <img src="https://img.shields.io/badge/API%20Development-16a34a?style=for-the-badge&logo=fastapi&logoColor=white" alt="API development" /> <img src="https://img.shields.io/badge/Automation-f97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" /> </p>
+<h2 align="center">Featured Build</h2> <div align="center"> <a href="https://github.com/sanket-thethunder"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanket-thethunder&repo=sanket-thethunder&theme=tokyonight&hide_border=true" alt="Pinned repository card" /> </a> </div> <br /> <table> <tr> <td> <h3>RAG-Powered Document Intelligence System</h3> <p> An end-to-end document intelligence project with ingestion, chunking, embeddings, hybrid retrieval, citation-grounded answers, evaluation metrics, FastAPI, Streamlit, and Docker support. </p> <p> <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AI%20Search-0f172a?style=flat-square&logo=openai&logoColor=white" alt="AI Search" /> </p> </td> </tr> </table>
+Project Highlights
 
-<p align="center">
-  <a href="https://github.com/sanket-thethunder">
-    <img src="https://komarev.com/ghpvc/?username=sanket-thethunder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/sanket-thethunder?tab=followers">
-    <img src="https://img.shields.io/github/followers/sanket-thethunder?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-</p>
+Multi-format ingestion for .txt, .md, .pdf, .docx, and .doc
+Paragraph-aware chunking with overlap
+Hybrid retrieval using semantic similarity plus BM25 keyword search
+Grounded answer generation with source citations
+Lightweight RAGAS-style evaluation metrics
+FastAPI backend, Streamlit UI, Dockerfile, and local-first execution
+<h2 align="center">GitHub Galaxy</h2> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanket-thethunder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-thethunder&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub streak" /> </p> <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-thethunder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanket-thethunder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" /> </p>
+<h2 align="center">3D Contribution Graph</h2> <p align="center"> <img src="https://raw.githubusercontent.com/sanket-thethunder/sanket-thethunder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" /> </p>
+To make this 3D graph work, add the GitHub Action shown below in .github/workflows/profile-3d.yml.
 
----
-
-## About Me
-
-- I enjoy turning ideas into usable software: dashboards, AI tools, automation, and developer-friendly apps.
-- Currently exploring AI-powered applications, RAG systems, data analytics, and production-ready Python projects.
-- I like projects that are practical, readable, and useful beyond the demo.
-- Always learning, improving, and building in public.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,flask,streamlit,docker,git,github,vscode" alt="tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Full%20Stack-16a34a?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Automation-f97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
-</p>
-
----
-
-## Featured Work
-
-### RAG-Powered Document Intelligence System
-
-An end-to-end document intelligence project with document ingestion, chunking, embeddings, hybrid retrieval, citation-grounded answers, evaluation metrics, FastAPI, Streamlit, and Docker support.
-
-**Highlights**
-
-- Supports `.txt`, `.md`, `.pdf`, `.docx`, and `.doc`
-- Uses semantic retrieval plus BM25 keyword search
-- Provides grounded answers with source attribution
-- Includes lightweight RAGAS-style evaluation metrics
-- Runs locally with an optional OpenAI-compatible LLM provider
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanket-thethunder&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanket's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-thethunder&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-thethunder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## What I Like Building
-
-- AI assistants and retrieval-augmented generation systems
-- Data dashboards and analytics workflows
-- Python backends and APIs
-- Streamlit apps and useful internal tools
-- Clean project templates that are easy to run and explain
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/sanket-thethunder">
-    <img src="https://img.shields.io/badge/GitHub-sanket--thethunder-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting. More projects coming soon.</b>
-</p>
+<h2 align="center">What I Like Building</h2> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/AI%20Assistants-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistants" /> <br /><br /> Smart tools that answer, summarize, retrieve, and reason over information. </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Data%20Dashboards-2563eb?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Dashboards" /> <br /><br /> Visual analytics apps that make patterns and decisions easier to see. </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/APIs%20%26%20Backends-16a34a?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs and Backends" /> <br /><br /> Clean Python services with useful endpoints and simple deployment paths. </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/Automation-f97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" /> <br /><br /> Workflows that save time, remove repetition, and make projects smoother. </td> </tr> </table>
+<h2 align="center">Activity</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket-thethunder&theme=tokyo-night&hide_border=true&area=true&custom_title=Sanket's%20Contribution%20Map" alt="GitHub activity graph" /> </p>
+<h2 align="center">Connect With Me</h2> <p align="center"> <a href="https://github.com/sanket-thethunder"> <img src="https://img.shields.io/badge/GitHub-sanket--thethunder-181717?style=for-the-badge&logo=github" alt="GitHub" /> </a> <a href="mailto:sanketbachhav26@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/sanketbachhav01/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> <br /> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06b6d4,50:2563eb,100:0f172a&section=footer" alt="footer" /> </p>
